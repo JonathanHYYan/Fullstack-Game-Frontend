@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# React Frontend APP 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Usage Instructions
+
+Step 1: "npm start" in terminal to start the app in the browser (usually http://localhost:3000)
+
+Step 2: If recently cloned off github use "npm install" for Step 1 to work.
+
+######################################################################################################
 
 ## Available Scripts
 
